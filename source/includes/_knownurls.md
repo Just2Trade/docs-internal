@@ -12,3 +12,4 @@
 
 - https://ustradex.just2trade.com/issues/usa/search/flat
 - https://txprd-wt.just2trade.com/securities/search
+- https://txprd.just2trade.com/grpc-json/txsecurities/v1/lookup?ticker=AAPL
